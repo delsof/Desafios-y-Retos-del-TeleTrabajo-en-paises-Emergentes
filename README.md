@@ -21,7 +21,7 @@ A continuación una lista de algunos de los recursos, ambientes y logística a c
 #### Condiciones técnicas y experiencia del TeleEmpleado
   * Poseer una Computadora Personal (PC) o Portátil (Laptop)
   * Conexión a la Internet con suficiente ancho de banda
-  * Número de teléfono del su Soporte técnico accesible
+  * Número de teléfono accesible de su Soporte técnico 
   * Comunicación viable con su supervisor y compañeros de trabajo
   * Conocimiento de acceso a los recursos de la empresa
     * Uso de aplicaciones VPN

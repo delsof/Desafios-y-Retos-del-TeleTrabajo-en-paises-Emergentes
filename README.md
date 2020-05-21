@@ -1,6 +1,5 @@
 # Desafíos y Retos del TeleTrabajo en países Emergentes
-#### por Delso A. Fernández
-#### Publicado Mayo 21, 2020
+#### Por Delso A. Fernández - Publicado Mayo 21, 2020
 
 Durante los últimos meses durante la pandemia del COVID-19 ha sido notable la necesidad del uso del Teletrabajo. En términos simples el Teletrabajo es el proceso o actividad donde puedes desarrollar tus responsabilidades laborales desde cualquier lugar fuera de la oficina, mediante el acceso a los recursos de la empresa para completar dichas labores. Compañías han tenido que recurrir a la práctica, en algunos casos, forzados a tener su personal cumpliendo sus tareas fuera de sus oficinas. De modo que utilizan tecnologías disponibles en el mercado por más de 20 años. Tales como acceso VPN, acceso a correo electrónico corporativos, y en recientemente el uso de aplicaciones en el Cloud (la nube)
 
@@ -26,16 +25,16 @@ A continuación una lista de algunos de los recursos, ambientes y logística a c
   * Conocimiento de acceso a los recursos de la empresa
     * Uso de aplicaciones VPN
   * Auriculares con micrófono para reuniones
-•	Acceso a correo electrónico de la empresa
-•	Conocimiento y manejo de conceptos de Seguridad de la información
-o	Confidencialidad, Integridad, Disponibilidad [CIA]
-o	Resguardo de la información digital
+  * Acceso a correo electrónico de la empresa
+  * Conocimiento y manejo de conceptos de Seguridad de la información
+    * Confidencialidad, Integridad, Disponibilidad [CIA]
+    * Resguardo de la información digital
 
 #### Logística
   * Disponibilidad de horario mientras labora fuera de la oficina
-  * Si está en el hogar
+    * Si está en el hogar
   * Responsabilidades familiares
-  * Si debe de cuidar a niños pequeños mientras trabaja desde el hogar
+    * Si debe de cuidar a niños pequeños mientras trabaja desde el hogar
   * Estrés que se puede producir por estar otros miembros de la familia en el hogar
 
 

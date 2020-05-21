@@ -9,6 +9,7 @@ A pesar de estas y otras ventajas, los empleados enfrentan desafíos y retos par
 
 A continuación una lista de algunos de los recursos, ambientes y logística a considerar para un buen desempeño del TeleTrabajo por parte del empleado.
 
+
 #### Condiciones físicas de la TeleOficina
   * Zona de trabajo apropiada
   * Silla cómoda (posible ergonómica)
@@ -36,6 +37,7 @@ A continuación una lista de algunos de los recursos, ambientes y logística a c
   * Responsabilidades familiares
     * Si debe de cuidar a niños pequeños mientras trabaja desde el hogar
   * Estrés que se puede producir por estar otros miembros de la familia en el hogar
+
 
 
 Si el estado no provee de energía eléctrica estable, ¿cómo se puede establecer y mantener la comunicación a los recursos de la empresa? Si no hay un proveedor de servicio de Internet disponible en el área donde vive el empleado, y en caso de haber ¿hay un servicio estable y un buen ancho de banda? Si la compañía no facilita al empleado de un buen equipo con las medidas de protección de datos mientras acceden los recursos de la compañía ¿cómo se puede mantener la integridad de los datos y la protección de los mismos? 

@@ -1,6 +1,6 @@
 # Desafíos y Retos del TeleTrabajo en países Emergentes
-##### por Delso A. Fernández
-Publicado Mayo 21, 2020
+#### por Delso A. Fernández
+#### Publicado Mayo 21, 2020
 
 Durante los últimos meses durante la pandemia del COVID-19 ha sido notable la necesidad del uso del Teletrabajo. En términos simples el Teletrabajo es el proceso o actividad donde puedes desarrollar tus responsabilidades laborales desde cualquier lugar fuera de la oficina, mediante el acceso a los recursos de la empresa para completar dichas labores. Compañías han tenido que recurrir a la práctica, en algunos casos, forzados a tener su personal cumpliendo sus tareas fuera de sus oficinas. De modo que utilizan tecnologías disponibles en el mercado por más de 20 años. Tales como acceso VPN, acceso a correo electrónico corporativos, y en recientemente el uso de aplicaciones en el Cloud (la nube)
 
@@ -10,33 +10,33 @@ A pesar de estas y otras ventajas, los empleados enfrentan desafíos y retos par
 
 A continuación una lista de algunos de los recursos, ambientes y logística a considerar para un buen desempeño del TeleTrabajo por parte del empleado.
 
-Condiciones físicas de la TeleOficina
-•	Zona de trabajo apropiada
-•	Silla cómoda (posible ergonómica)
-•	Iluminación apropiada
-•	Temperatura adecuada
-•	Energía eléctrica estable
-•	Reducir factores que puedan producir accidentes físicos
+#### Condiciones físicas de la TeleOficina
+  * Zona de trabajo apropiada
+  * Silla cómoda (posible ergonómica)
+  * Iluminación apropiada
+  * Temperatura adecuada
+  * Energía eléctrica estable
+  * Reducir factores que puedan producir accidentes físicos
 
-Condiciones técnicas y experiencia del TeleEmpleado
-•	Poseer una Computadora Personal (PC) o Portátil (Laptop)
-•	Conexión a la Internet con suficiente ancho de banda
-•	Número de teléfono del su Soporte técnico accesible
-•	Comunicación viable con su supervisor y compañeros de trabajo
-•	Conocimiento de acceso a los recursos de la empresa
-o	Uso de aplicaciones VPN
-•	Auriculares con micrófono para reuniones
+#### Condiciones técnicas y experiencia del TeleEmpleado
+  * Poseer una Computadora Personal (PC) o Portátil (Laptop)
+  * Conexión a la Internet con suficiente ancho de banda
+  * Número de teléfono del su Soporte técnico accesible
+  * Comunicación viable con su supervisor y compañeros de trabajo
+  * Conocimiento de acceso a los recursos de la empresa
+    * Uso de aplicaciones VPN
+  * Auriculares con micrófono para reuniones
 •	Acceso a correo electrónico de la empresa
 •	Conocimiento y manejo de conceptos de Seguridad de la información
 o	Confidencialidad, Integridad, Disponibilidad [CIA]
 o	Resguardo de la información digital
 
-Logística
-•	Disponibilidad de horario mientras labora fuera de la oficina
-o	Si está en el hogar
-•	Responsabilidades familiares
-o	Si debe de cuidar a niños pequeños mientras trabaja desde el hogar
-•	Estrés que se puede producir por estar otros miembros de la familia en el hogar
+#### Logística
+  * Disponibilidad de horario mientras labora fuera de la oficina
+  * Si está en el hogar
+  * Responsabilidades familiares
+  * Si debe de cuidar a niños pequeños mientras trabaja desde el hogar
+  * Estrés que se puede producir por estar otros miembros de la familia en el hogar
 
 
 Si el estado no provee de energía eléctrica estable, ¿cómo se puede establecer y mantener la comunicación a los recursos de la empresa? Si no hay un proveedor de servicio de Internet disponible en el área donde vive el empleado, y en caso de haber ¿hay un servicio estable y un buen ancho de banda? Si la compañía no facilita al empleado de un buen equipo con las medidas de protección de datos mientras acceden los recursos de la compañía ¿cómo se puede mantener la integridad de los datos y la protección de los mismos? 

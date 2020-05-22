@@ -39,7 +39,7 @@ A continuación una lista de algunos de las condiciones del espacio físico, rec
   * Estrés que se puede producir por estar otros miembros de la familia en el hogar
 
 
-Si el estado no provee de energía eléctrica estable, ¿cómo se puede establecer y mantener la comunicación a los recursos de la empresa? Si no hay un proveedor de servicio de Internet disponible en el área donde vive el empleado, y en caso de haber ¿hay un servicio estable y un buen ancho de banda? Si la compañía no facilita al empleado de un buen equipo con las medidas de protección de datos mientras acceden los recursos de la compañía ¿cómo se puede mantener la integridad de los datos y la protección de los mismos? 
+Ahora supongamos que si el estado no provee de energía eléctrica estable, ¿cómo se puede establecer y mantener la comunicación a los recursos de la empresa? Si no hay un proveedor de servicio de Internet disponible en el área donde vive el empleado, y en caso de haber ¿hay un servicio estable y un buen ancho de banda? Si la compañía no facilita al empleado de un buen equipo con las medidas de protección de datos mientras acceden los recursos de la compañía ¿cómo se puede mantener la integridad de los datos y la protección de los mismos? 
 
 Estos y otros interrogantes representan un verdadero desafío y retos para países emergentes al momento de implementar el TeleTrabajo. Estos deben ser enfrentados no solo por el empleador y el empleado, pero también por parte de las instituciones públicas y privadas. A medida que podamos presentar soluciones concretas para reducir y eliminar las dificultades del TeleTrabajo, podremos garantizar mejores resultados laborales. 
 
